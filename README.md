@@ -12,6 +12,6 @@ After the source code is found, BeautifulSoup is then used to obtain the informa
 
 Please also download [chromedriver.exe](https://github.com/3LexW/WebScrappingPractice/blob/master/chromedriver.exe) to the same folder where the code is placed, and [install selenium](https://selenium-python.readthedocs.io/installation.html) to make the code work.
 
-The running time of the script is longer than an hour since web browser is introduced, therefore it is suggested to modify the code for a quicker test.
+The running time of the script is longer than an hour since the code involves web browsing, therefore it is suggested to modify the code for a quicker test.
 
 Please find file [HKJCreadResult.py](https://github.com/3LexW/WebScrappingPractice/blob/master/HKJCreadResult.py) for code, and [HKJCResults.csv](https://github.com/3LexW/WebScrappingPractice/blob/master/HKJCResults.csv) for the result.
