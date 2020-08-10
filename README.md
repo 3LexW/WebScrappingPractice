@@ -1,4 +1,5 @@
 # WebScrappingPractice
+Storing codes for web scrapping practice using request package and beautifulSoup package in Python.
 
 ## Practice 1. Obtain URL from [Google](google.com)
 Please find file [google.py](https://github.com/3LexW/WebScrappingPractice/blob/master/google.py) for code
