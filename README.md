@@ -4,7 +4,7 @@
 Please find file [google.py](https://github.com/3LexW/WebScrappingPractice/blob/master/google.py) for code
 
 ## Practice 2. Extract all of the links from [White House](https://www.whitehouse.gov/briefings-statements/) that point to the briefings and statements
-Please find file whiteHouse.py for code
+Please find file [whiteHouse.py](https://github.com/3LexW/WebScrappingPractice/blob/master/whiteHouse.py) for code
 
 ## Practice 3. Obtain most of the races result from [Hong Kong Jockey Club](https://racing.hkjc.com/racing/information/english/Racing/LocalResults.aspx)
 Since the request package could not download any source code from the website, web automation tool "Selenium" is introduced, which is a web browser scripting package, mainly for scraping source code from the website.
